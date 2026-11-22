@@ -2,6 +2,10 @@
 
 *Protege tu información y equilibra tu vida digital.*
 
+🎬 **[Ver el video promocional del juego](https://youtu.be/EEZbIQ8mdGM)**
+
+[![Video promocional de Los Guardianes de la Privacidad](https://img.youtube.com/vi/EEZbIQ8mdGM/hqdefault.jpg)](https://youtu.be/EEZbIQ8mdGM)
+
 📄 **[Ver la presentación del juego (PDF)](https://github.com/user-attachments/files/35226630/README_Guardianes_de_la_Privacidad.pdf)**
 
 Videojuego educativo sobre el uso saludable de las redes sociales y la protección de los datos personales.
