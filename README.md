@@ -2,13 +2,13 @@
 
 **Protege tu información y equilibra tu vida digital.**
 
-🎬 [Ver el video promocional del juego](https://youtu.be/EEZbIQ8mdGM)
+🎬 [Ver el video promocional del juego](https://youtu.be/mgHG02jmdks)
 
-[![Video promocional de Los Guardianes de la Privacidad](https://img.youtube.com/vi/EEZbIQ8mdGM/hqdefault.jpg)](https://youtu.be/EEZbIQ8mdGM)
+[![Video promocional de Los Guardianes de la Privacidad](https://img.youtube.com/vi/mgHG02jmdks/hqdefault.jpg)](https://youtu.be/mgHG02jmdks)
 
 📄 [Ver la presentación del juego (PDF)](https://github.com/user-attachments/files/35226630/README_Guardianes_de_la_Privacidad.pdf)
 
-📘 [Ver el manual de usuario (PDF)](Manual_de_usuario_Guardianes.pdf)
+📘 [Ver el manual de usuario (PDF)](Manual_de_usuario_Guardianes_De_La_Privacidad.pdf)
 
 Videojuego educativo sobre el uso saludable de las redes sociales y la protección de los datos personales. Proyecto del equipo **SINC** para Algoritmia y Programación I (NRC 4511), Universidad del Norte, 2026. Profesora: Rocío Ramos Rodríguez.
 
@@ -31,7 +31,7 @@ Sus decisiones cambian la protección de su bóveda digital y su puntaje digital
 |---|---|
 | `Lab_Entrega_2_CDG_IHM_SVD_NVB/` | El juego (Processing 4): el archivo `.pde` y la carpeta `data` con las imágenes, los personajes animados y la música |
 | `RECURSOS GRAFICOS DEL JUEGO/` | Copia de todas las imágenes del juego, ordenadas en carpetas: personajes, menú, habitación, diálogos, computador, informes y finales, e interfaz |
-| `Manual_de_usuario_Guardianes.pdf` | Manual de usuario completo, con todas las pantallas explicadas paso a paso |
+| `Manual_de_usuario_Guardianes_De_La_Privacidad.pdf` | Manual de usuario completo, con todas las pantallas explicadas paso a paso |
 | `README.md` | Esta presentación |
 
 ## Cómo jugar
